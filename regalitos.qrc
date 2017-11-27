@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/image" lang="tur">
+        <file>info-icon-23827.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>../../../Downloads/Screenshot-2017-11-3 MiUV - Estudiantes.png</file>
+    </qresource>
+</RCC>

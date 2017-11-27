@@ -49,12 +49,6 @@ public:
 
 private slots:
     void on_pushButton_16_clicked();
-
-
-    void on_tabWidget_tabBarClicked(int index);
-
-    void on_tabWidget_currentChanged(int index);
-
 private:
     Ui::my_sistem *ui;
 
@@ -67,7 +61,7 @@ public slots:
     void Newton_Raphson();
     void Eliminacion_Gaussiana();
     void Gauss_Seidel() ;
- void Interpolacion_de_Lagrange();
+    void Interpolacion_de_Lagrange();
     void Runge_Kutta();
     void Euler_SLOT();
     void biseccion_slot();
